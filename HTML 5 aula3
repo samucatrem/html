@@ -1,0 +1,30 @@
+!DOCTYPE html>
+
+<html>
+
+      <head>
+           <title>Aula03 HTML - Formatação de Textos</title>
+      </head>
+
+
+     <body>
+
+          Esse texto é um <b>texto com algumas</b> formatações html<br><br>
+
+
+
+
+
+     </body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
