@@ -1,4 +1,4 @@
-DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,15 +14,16 @@ DOCTYPE html>
 
 <h2>Login</h2>
 Login: <br>
-<input type="text" name="Usuário">
+<input type="text" name= "Usuário" placeholder="Usuário">
 <br>
-Senha:
-<input type="text" name="Senha">
 <br>
+Senha: <br>
+<input type="text" name= "Senha" placeholder="Senha">
+<br>
+<br>
+<input type="button" name= "Entrar" value="Logar"> 
 <br>
 
-<input type="button" name="Entrar" value="Logar">
-<br>
 
 </center>
 
